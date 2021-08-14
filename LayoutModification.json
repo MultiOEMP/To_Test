@@ -1,0 +1,25 @@
+{
+"primaryOEMPins":[
+{
+"packagedAppId":"Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\NotePad.lnk"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Services.lnk"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk"
+},
+{
+"desktopAppLink":"%ALLUSERSPROFILE%\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk"
+}
+]
+}
